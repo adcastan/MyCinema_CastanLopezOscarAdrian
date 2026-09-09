@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCinema</string>
+    <string name="get_in">Entrar</string>
+    <string name="mail">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="sinopsis">Un proyecto militar secreto pone en peligro a Neo-Tokio cuando convierte a un miembro de una pandilla de motociclistas en un psicópata devastador que solo puede ser detenido por dos adolescentes y un grupo de psíquicos.
+    </string>
+    <string name="detalles">Director: Katsuhiro Otomo</string>
+</resources>
